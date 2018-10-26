@@ -1,1 +1,2 @@
 Fourth sample from master
+edited sample 4 from branch 4
