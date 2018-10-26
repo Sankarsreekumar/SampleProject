@@ -1,1 +1,2 @@
 This is the second sample text file from master.
+edited from branch 3
