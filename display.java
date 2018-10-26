@@ -2,9 +2,7 @@ class Print
 {
 public static void main(String[] args)
 {
-System.out.println("Hello world");
-  System.out.println("This is branch one");
-  System.out.println("This is branch five");
-  System.out.println("This is branch six");
+System.out.println("Error testing 2");
+ 
 }
 }
